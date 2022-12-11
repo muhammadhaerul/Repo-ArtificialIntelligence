@@ -1,4 +1,4 @@
-# Laptop-Price-Prediction-using-Regression-Trees-Algorithm
+# Laptop-Price-Prediction
 **TEAM NIHONGO**
 **Members:**
 - H071201033 | Muhammad Haerul
