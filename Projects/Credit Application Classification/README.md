@@ -1,1 +1,1 @@
-# Credit-Appliaction-Classification-using-KNN-Algorithms
+# Credit-Appliaction-Classification-using-KNN-Algorithm
