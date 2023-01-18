@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Artificial-Intelligence Repository
 
 This repository contains various resources and tutorials on artificial intelligence and its related topics.
 
