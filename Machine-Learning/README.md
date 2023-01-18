@@ -1,10 +1,13 @@
 ## Machine-Learning
 
 ### Intro and Intermediate Machine Learning 
+
 These section cover the fundamentals of machine learning and how to apply them to real-world problems.
 
 ### Models and Projects 
+
 These section covers the implementation of various machine learning and deep learning models and their application to different projects.
+
 ### Models
 - Linear Regression
 - Multiple Linear Regression
